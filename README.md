@@ -43,6 +43,13 @@ Important Updates
 - The browser versions remain live on GitHub Pages, Cloudflare Pages, and Netlify.
 - For the best experience, use the latest build and report any issues through the repository.
 
+How do Versions work?
+----------------------
+If you want to know how our version numbers work, here is a quick overview.
+- The first number here v**0**.0.0 in the line is a full release. It updates everytime a beta version hits 10, making beta version go back to 0
+- The second number here v0.**0**.0 is used to show a beta version, as explained before it resets to 0 when it hits 10.
+- the 3rd number here v0.0.**0** is used to show test release and not fully into beta. 
+
 Contributing
 ------------
 Improvements and fixes are welcome. If this project is hosted in a version-controlled
