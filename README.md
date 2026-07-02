@@ -28,6 +28,15 @@ Project files
 - `styles.css` — visual styles.
 - `assets/` — images, audio, and other media used by the game.
 
+When are After Stories now being worked on?
+-------------------------------------------
+I do take breaks, so when they are not being worked on is improtant. This does change dates of release.
+Here is list of dates taken off for every year.
+- Dec 24-30
+- May 20th - June 3rd
+- July 4th
+- Every 4th thursday of November(For Thanksgiving)
+
 Screenshots
 -----------
 
