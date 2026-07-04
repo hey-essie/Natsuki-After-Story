@@ -14,6 +14,12 @@ Want the latest features and the most complete experience? Try the Netlify versi
 https://natsuki-after-story.netlify.app/
 This build includes the full game and all enhancements, including the special Cloudflare version features.
 
+Doki Doki After Stories Hub
+---------------------------
+I have now made a hub! It will hold all games, with their link. It will even hold other games I make.
+You can vist it here
+- https://rozeidk.github.io/Doki-Doki-After-Stroies-Hub/
+
 How to play
 -----------
 - Click or tap to advance dialogue and scenes.
