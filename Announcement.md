@@ -1,9 +1,10 @@
 # Announcement
 
-## Upcoming Update
+## News
 
-- Planned release: **July 12, 2026** at **12:00 AM MST**
-- Status: **Delayed**
+Hello, everyone. I am sorry for not updating the game on time. I have been busy with school and my classes, trying to figure out college. I do want to keep this project going; I don't want to make it unfinished.
+
+The best time for the next update is September 7th, 2026, on Labor Day. If I don't update it by then, I can probably update it by fall break.
 
 ## What’s included
 
