@@ -4,7 +4,7 @@ Natsuki After Story
 How to run
 ----------
 Open `index.html` locally in your browser, or play the hosted game at
-https://rozeidk.github.io/Natsuki-After-Story/.
+https://natsuki-after-story.essie.dev/.
 
 If the GitHub Pages version is not working, you can use the Cloudflare Pages version:
 https://natsuki-after-story.botroze102.workers.dev/
