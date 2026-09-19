@@ -28,11 +28,11 @@ How to play
 
 Project files
 -------------
-- `index.html` — game entry point and HTML UI.
-- `runtime.js` — game runtime/engine logic.
-- `game.json` — story data and scene definitions.
-- `styles.css` — visual styles.
-- `assets/` — images, audio, and other media used by the game.
+- `index.html` - game entry point and HTML UI.
+- `runtime.js` - game runtime/engine logic.
+- `game.json` - story data and scene definitions.
+- `styles.css` - visual styles.
+- `assets/` - images, audio, and other media used by the game.
 
 When are After Stories now being worked on?
 -------------------------------------------
