@@ -67,8 +67,7 @@ If you want to know how our version numbers work, here is a quick overview.
 
 Contributing
 ------------
-Improvements and fixes are welcome. If this project is hosted in a version-controlled
-repository, please open a pull request or issue describing your changes.
+Improvements and fixes are welcome.
 
 Credits
 -------
