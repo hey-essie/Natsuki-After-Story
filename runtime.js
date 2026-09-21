@@ -404,7 +404,7 @@
     this.canvasInner.style.backgroundImage = "";
     if (slide.backgroundType === "image") {
       applyStyle(this.canvasInner, {
-        "background-image": "url(\"" + String(slide.background).replace(/"/g, '\\"') + "\")",
+        "background-image": "url(\"" + encodeURI(String(slide.background)) + "\")",
         "background-size": "cover",
         "background-position": "center",
         "background-repeat": "no-repeat",
