@@ -55,6 +55,7 @@ Important Updates
 - A working Windows `.exe` version of Natsuki After Story is in beta.
 - The browser versions remain live on GitHub Pages, Cloudflare Pages, and Netlify.
 - For the best experience, use the latest build and report any issues through the repository.
+- There is now a custom domain, you can find it at natsuki-after-story.essie.dev
 
 How do Versions work?
 ----------------------
@@ -79,10 +80,6 @@ Credits:
 - Team Salvato
 - Dan Salvato
 - edave64
-
-Contact
--------
-For questions or suggestions, please open an issue in the repository.
 
 Other After Stories
 -------------------
