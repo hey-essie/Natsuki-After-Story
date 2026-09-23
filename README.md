@@ -73,8 +73,8 @@ Credits
 **Natsuki After Story** is a fan-made mod for *Doki Doki Literature Club* (DDLC). All original game assets, characters, and IP belong to **Team Salvato**.
 
 ### Special Thanks & Assets:
-* **Team Salvato & Dan Salvato** — Creators of *Doki Doki Literature Club*.
-* **edave64** — Creator of the [Doki Doki Dialog Generator](https://edave64.github.i
+* **Team Salvato & Dan Salvato** Creators of *Doki Doki Literature Club*.
+* **edave64** Creator of the [Doki Doki Dialog Generator](https://edave64.github.i
 
 Credits:
 - Team Salvato
