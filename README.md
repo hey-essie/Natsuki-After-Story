@@ -7,16 +7,16 @@ Open `index.html` locally in your browser, or play the hosted game at
 https://natsuki-after-story.essie.dev/.
 
 If the GitHub Pages version is not working, you can use the Cloudflare Pages version:
-https://natsuki-after-story.botroze102.workers.dev/
+[Cloudflare NAS](https://natsuki-after-story.botroze102.workers.dev/)
 Note that this version may not include the latest updates from the repository.
 
 Want the latest features and the most complete experience? Try the Netlify version:
-https://natsuki-after-story.netlify.app/
+[Netlify NAS](https://natsuki-after-story.netlify.app/)
 This build includes the full game and all enhancements, including the special Cloudflare version features.
 
 Support/Opening a Ticket
 ------------------------
-You can submit a support ticket at https://support.essie.dev to report any issues related to my games or applications. If you wish to have your data removed after the issue has been resolved, please send an email to support@essie.dev. Thank you.
+You can submit a support ticket [HERE](https://support.essie.dev) to report any issues related to my games or applications. If you wish to have your data removed after the issue has been resolved, please send an email to support@essie.dev. Thank you.
 
 How to play
 -----------
