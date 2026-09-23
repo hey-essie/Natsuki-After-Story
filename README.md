@@ -74,12 +74,7 @@ Credits
 
 ### Special Thanks & Assets:
 * **Team Salvato & Dan Salvato** Creators of *Doki Doki Literature Club*.
-* **edave64** Creator of the [Doki Doki Dialog Generator](https://edave64.github.i
-
-Credits:
-- Team Salvato
-- Dan Salvato
-- edave64
+* **edave64** Creator of the [Doki Doki Dialog Generator](https://edave64.github.io/Doki-Doki-Dialog-Generator/release/) used for generating backgrounds and dialogue assets.
 
 Other After Stories
 -------------------
