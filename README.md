@@ -3,8 +3,7 @@ Natsuki After Story
 
 How to run
 ----------
-Open `index.html` locally in your browser, or play the hosted game at
-https://natsuki-after-story.essie.dev/.
+Open `index.html` locally in your browser, or play the hosted game [HERE](https://natsuki-after-story.essie.dev/).
 
 If the GitHub Pages version is not working, you can use the Cloudflare Pages version:
 [Cloudflare NAS](https://natsuki-after-story.botroze102.workers.dev/)
